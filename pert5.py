@@ -57,7 +57,6 @@ def diagnosa_tht():
             print(f"{i}. {p}")
     else:
         print("Tidak ditemukan diagnosa")
-    print("="*40)
     print("Konsultasikan dengan dokter spesialis THT")
 
 if __name__ == "__main__":
